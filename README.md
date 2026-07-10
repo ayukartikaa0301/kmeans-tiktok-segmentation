@@ -131,17 +131,14 @@ Rekomendasi telah divalidasi melalui **Expert Judgement** dengan pemilik usaha d
 │   └── kmeans_tiktok_analysis.ipynb
 │
 ├── 📂 outputs/                     # Hasil analisis
-│   ├── profil_klaster.csv
-│   ├── hasil_clustering_lengkap.csv
-│   ├── ringkasan_hasil.csv
-│   ├── evaluasi_k_optimal.png
-│   ├── radar_chart_klaster.png
-│   ├── bar_chart_klaster.png
-│   └── scatter_plot_pca.png
-│
-└── 📂 docs/                        # Dokumentasi pendukung
-    ├── skripsi_full.pdf
-    └── presentasi_sidang.pdf
+    ├── profil_klaster.csv
+    ├── hasil_clustering_lengkap.csv
+    ├── ringkasan_hasil.csv
+    ├── evaluasi_k_optimal.png
+    ├── radar_chart_klaster.png
+    ├── bar_chart_klaster.png
+    └── scatter_plot_pca.png
+
 ```
 
 ---
