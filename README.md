@@ -241,14 +241,6 @@ Kontribusi sangat dihargai! Jika Anda ingin berkontribusi:
 4. **Push** ke branch (`git push origin feature/AmazingFeature`)
 5. Buka **Pull Request**
 
-### 💡 Ide Pengembangan Selanjutnya
-- [ ] Integrasi data per-video (bukan agregat harian) untuk insight lebih granular
-- [ ] Penerapan *text mining* (NLP) pada caption dan komentar
-- [ ] Penerapan *computer vision* untuk analisis elemen visual
-- [ ] Komparasi dengan algoritma lain (DBSCAN, Hierarchical Clustering)
-- [ ] Ekspansi ke multi-akun TikTok dari industri yang sama
-- [ ] Pengembangan dashboard web real-time
-
 ---
 
 ## 📜 Lisensi
@@ -265,9 +257,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Fakultas:** Sains dan Teknologi  
 **Universitas:** Universitas Harkat Negeri  
 
-📫 Email: [email Anda]  
-💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
-🐙 GitHub: [@username](https://github.com/username)
 
 ---
 
