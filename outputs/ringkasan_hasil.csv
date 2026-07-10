@@ -1,0 +1,2 @@
+Total_Observasi,Periode_Data,Jumlah_Klaster,Silhouette_Score,Davies_Bouldin_Index,Calinski_Harabasz_Index,Avg_Engagement_Rate,Avg_Video_Views
+363,1900-01-01 00:00:00 - 1900-12-31 00:00:00,2,0.7424074845085171,0.3120093089834933,131.8344769625225,0.3660740823275265,4451.220385674931
